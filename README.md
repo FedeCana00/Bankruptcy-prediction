@@ -17,13 +17,13 @@
     ·
     <a href="#data-visualization">Data visualization</a>
      ·
-    <a href="pre-processing">Pre-processing</a>
+    <a href="#pre-processing">Pre-processing</a>
      ·
-    <a href="modelling">Modelling</a>
+    <a href="#modelling">Modelling</a>
      ·
-    <a href="fine-tuning">Fine tuning</a>
+    <a href="#fine-tuning">Fine tuning</a>
      ·
-    <a href="conclusion">Conclusion</a>
+    <a href="#conclusion">Conclusion</a>
   </p>
 </div>
 
